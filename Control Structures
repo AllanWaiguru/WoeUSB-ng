@@ -1,0 +1,19 @@
+The choice of repetition control structure depends on the specific requirements of the program. Here's when it is advisable to use each of the following repetition control structures:
+
+For Loop:
+
+Use a for loop when the number of iterations is known or fixed.
+It is suitable for iterating over a range of values or a collection.
+The syntax of a for loop typically includes an initialization, a condition for continuation, and an update statement.
+
+While Loop:
+
+Use a while loop when the number of iterations is not known in advance and is based on a condition.
+It is suitable for situations where the loop needs to continue until a certain condition is met.
+The loop continues as long as the specified condition is true.
+
+Do...While Loop:
+
+Use a do...while loop when you want to execute the loop's body at least once, regardless of the condition.
+It is suitable for situations where the loop's body needs to be executed before checking the condition for continuation.
+The loop executes the code block first and then checks the condition for further iterations.
